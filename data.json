@@ -1,0 +1,92 @@
+[
+   {
+      "img":"https://www.efeeme.com/wp-content/uploads/2014/04/doors-15-11-19.jpg",
+      "name":"The doors",
+      "video":"https://www.youtube.com/watch?v=8f1z-nHvt3c"
+   },
+   {
+      "img":"https://mott.pe/noticias/wp-content/uploads/2018/01/Portada-Beatles.jpg",
+      "name":"The beatles",
+      "video":"https://www.youtube.com/watch?v=9_c2XZd9mMo"
+   },
+   {
+      "img":"https://www.popes80.com/wp-content/uploads/2019/04/heroesdelsilencio07-700x325.jpg",
+      "name":"Heroes del Silencio",
+      "vide":"https://www.youtube.com/watch?v=sSrhUJk6szU"
+   },
+   {
+      "img":"https://wrmx00.epimg.net/radio/imagenes/2020/02/13/nacional/1581561980_213747_1581562473_noticia_normal_recorte1.jpg",
+      "name":"Panteon Rococo",
+      "video":"https://www.youtube.com/watch?v=UbIGFehMvBs"
+   },
+   {
+      "img":"https://www.viceversa-mag.com/wp-content/uploads/2017/03/Los-Fabulosos-Cadillacs-llegan-a-Nueva-York-620x502.jpg",
+      "name":"Los Fabulosos Cadillacs",
+      "video":"https://www.youtube.com/watch?v=CsZuy_NgYCw"
+   },
+   {
+      "img":"https://centrourbano.com/revista/wp-content/uploads/Cafe%CC%81-Tacvba.jpg",
+      "name":"Cafeta Cuba",
+      "video":"https://www.youtube.com/watch?v=4kSuJwYoxkw"
+   },
+   {
+      "img":"https://imagenes.razon.com.mx/files/image_940_470/uploads/2020/05/29/5ed0e48c65a10.jpeg",
+      "name":"Los Estramboticos",
+      "video":"https://www.youtube.com/watch?v=O3NJHmhl8lo"
+   },
+   {
+      "img":"https://cdn.lavoz.com.ar/sites/default/files/styles/width_1072/public/nota_periodistica/autenticos-decadentes-2.jpg",
+      "name":"Los Autenticos Decadentes",
+      "video":"https://www.youtube.com/watch?v=HSj1-w-xePY"
+   },
+   {
+      "img":"https://pbs.twimg.com/profile_images/1173250130419625986/18gy6Qtd_400x400.jpg",
+      "name":"Los Caligaris",
+      "video":"https://www.youtube.com/watch?v=JG9fapWcCik"
+   },
+   {
+      "img":"https://www.realidad360.com/wp-content/uploads/grupo-niche-2019.jpg",
+      "name":"Grupo Niche",
+      "video":"https://www.youtube.com/watch?v=-g-3ptRfFP4&list=PLXQoBwJSwjxXWdQuq3tE0I3Y8CmOAmB0q"
+   },
+   {
+      "img":"https://resources.sears.com.mx/medios-plazavip/fotos/productos_sears1/original/2630930.jpg",
+      "name":"90 pop tour",
+      "video":"https://www.youtube.com/watch?v=mnj0HZpCrzU&list=OLAK5uy_kk4dpACZHsFVJCU7XmuSNFGS0DxK8y1bk&index=4"
+   },
+   {
+      "img":"https://www.elpais.com.co/files/article_main_small/uploads/2020/05/29/5ed12ceb113c8.jpeg",
+      "name":"Christian Nodal",
+      "video":"https://www.youtube.com/watch?v=WjGIlNwMsSI"
+   },
+   {
+      "img":"https://img.discogs.com/uwbU2y2nGMmqWjQiK4xQ0NLEuFA=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15302189-1589431260-1656.jpeg.jpg",
+      "name":"El Haragan",
+      "video":"https://www.youtube.com/watch?v=3yMn1EcZr4c"
+   },
+   {
+      "img":"https://okdiario.com/img/2020/03/10/coldplay-sorprende-con-la-version-de-esta-cancion-655x368.jpg",
+      "name":"Coldplay",
+      "video":"https://www.youtube.com/watch?v=6AStdL1OXSA"
+   },
+   {
+      "img":"https://i.pinimg.com/originals/9a/c6/ca/9ac6cab3f70f538e4e2d98e92da2a0c2.jpg",
+      "name":"Selena",
+      "video":"https://www.youtube.com/watch?v=dvfZ95ueOcQ"
+   },
+   {
+      "img":"https://upload.wikimedia.org/wikipedia/en/1/19/Caifanes-LaHistoria.jpg",
+      "name":"Caifanes",
+      "video":"https://www.youtube.com/watch?v=LwdMlPRM3Tg"
+   },
+   {
+      "img":"https://miro.medium.com/max/4144/1*18I_X5npGH6VzVUM9_Si_Q.jpeg",
+      "name":"Elvis",
+      "video":"https://www.youtube.com/watch?v=Y_RCvsiavuM"
+   },
+   {
+      "img":"https://static.wikia.nocookie.net/queen/images/8/8c/Queen-ii-uk2015lpfront.jpg/revision/latest?cb=20171101155855&path-prefix=es",
+      "name":"Queen",
+      "video":"https://www.youtube.com/watch?v=IKKKPNsjlws"
+   }
+]
